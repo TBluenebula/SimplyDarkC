@@ -1826,7 +1826,7 @@
   stroke: var(--purple);
 }
 #app-mount .wrapper-3t9DeA rect[fill="#747f8d"], #app-mount .wrapper-3t9DeA rect[mask*=offline], #app-mount .wrapper-3t9DeA rect[mask*=ivisible], #app-mount .wrapper-3t9DeA rect[fill="rgba(116, 127, 141, 0)"] {
-  stroke: #747f8d;
+  stroke: #000000;
 }
 #app-mount .wrapper-3t9DeA rect[x="16"] {
   width: 24px;

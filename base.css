@@ -1825,9 +1825,13 @@
 #app-mount .wrapper-3t9DeA rect[fill="#593695"], #app-mount .wrapper-3t9DeA rect[fill="rgba(89, 54, 149, 1)"], #app-mount .wrapper-3t9DeA rect[mask*=streaming] {
   stroke: var(--purple);
 }
+<<<<<<< Updated upstream
 #app-mount .wrapper-3t9DeA rect[fill="#747f8d"], #app-mount .wrapper-3t9DeA rect[mask*=offline], #app-mount .wrapper-3t9DeA rect[mask*=ivisible], #app-mount .wrapper-3t9DeA rect[fill="rgba(116, 127, 141, 0)"] {
+=======
+#app-mount .wrapper-3t9DeA rect[fill="#000000"], #app-mount .wrapper-3t9DeA rect[mask*=offline], #app-mount .wrapper-3t9DeA rect[mask*=ivisible], #app-mount .wrapper-3t9DeA rect[fill="rgba(0, 0, 0, 0)"] {
+>>>>>>> Stashed changes
   stroke: #000000;
-}
+} // original color is #747f8d hex and 116, 127, 141, 0 rgba.
 #app-mount .wrapper-3t9DeA rect[x="16"] {
   width: 24px;
   height: 24px;

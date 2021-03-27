@@ -1831,7 +1831,7 @@
 #app-mount .wrapper-3t9DeA rect[fill="#747f8d"], #app-mount .wrapper-3t9DeA rect[mask*=offline], #app-mount .wrapper-3t9DeA rect[mask*=ivisible], #app-mount .wrapper-3t9DeA rect[fill="rgba(116, 127, 141, 1)"] {
 >>>>>>> Stashed changes
   stroke: #747f8d;
-} // original color is #747f8d hex and 116, 127, 141, 1 rgba.
+} 
 #app-mount .wrapper-3t9DeA rect[x="16"] {
   width: 24px;
   height: 24px;

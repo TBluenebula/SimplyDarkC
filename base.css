@@ -1755,7 +1755,6 @@ html.theme-light #app-mount:after {
 }
 #app-mount .userPopout-3XzG_A .avatarHint-1qgaV3 {
   border-radius: var(--SD-roundness) !important;
-  border: var(--SD-roundness);
 }
 #app-mount .userPopout-3XzG_A .wumpusWrapper-yrvoR3 {
   position: absolute;

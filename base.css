@@ -37,7 +37,7 @@
   --rs-dnd-color: #f04747;
   --rs-offline-color: transparent;
   --rs-streaming-color: #643da7;
-  --rs-invisible-color: #747f8d;
+  --rs-invisible-color: transparent;
   --rs-phone-visible: block;
   --rs-phone-color: var(--rs-online-color);
 }
